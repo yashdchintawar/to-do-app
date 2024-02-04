@@ -27,6 +27,10 @@ A simple and interactive To-Do App created with HTML, CSS, and JavaScript.
 
 4. **Enjoy the To-Do Experience!**
 
+5. ## Live Preview 🌐
+
+Explore the live version of the To-Do App [here](https://yashdchintawar.github.io/to-do-app/).
+
 ## Project Structure 📂
 
 - **index.html:** Contains the structure of the app.
@@ -36,7 +40,3 @@ A simple and interactive To-Do App created with HTML, CSS, and JavaScript.
 ## Author 🧑‍💻
 
 [Yash Chintawar](https://github.com/yashdchintawar)
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
