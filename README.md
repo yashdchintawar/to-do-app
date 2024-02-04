@@ -25,11 +25,11 @@ A simple and interactive To-Do App created with HTML, CSS, and JavaScript.
 
     Add new tasks, mark them as done, and remove tasks.
 
-4. **Enjoy the To-Do Experience!**
+4. **Live Preview 🌐**
 
-5. ## Live Preview 🌐
+    Explore the live version of the To-Do App [here](https://yashdchintawar.github.io/to-do-app/).
 
-Explore the live version of the To-Do App [here](https://yashdchintawar.github.io/to-do-app/).
+5. **Enjoy the To-Do Experience!**
 
 ## Project Structure 📂
 
