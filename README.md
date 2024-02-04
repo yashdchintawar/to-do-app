@@ -14,7 +14,7 @@ A simple and interactive To-Do App created with HTML, CSS, and JavaScript.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/yashdchintawar/to-do-app.git
     ```
 
 2. **Open the App:**
